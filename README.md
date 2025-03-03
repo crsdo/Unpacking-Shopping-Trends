@@ -6,16 +6,12 @@ Are Customers in Austin Opting for Smaller, More Frequent Purchases?
 
 
 ## Background Context
-This project involves creating a Tableau dashboard aimed at helping stakeholders, including sales managers and executives, analyze whether or not customers prefer smaller but more frequent shopping at two Austin stores. The dashboards focus on providing a clear overview of sales metrics, trends, and insights to support data-driven decision-making.
-
-North Star metrics: 
-* Average Basket Size:
-* Visits per Customer:
+This project involves creating a Tableau dashboard aimed at helping stakeholders, including sales managers and executives, analyze whether or not customers prefer smaller but more frequent shopping at two Austin stores. The dashboards provide a clear overview of sales metrics, trends, and insights to support data-driven decision-making.
 
 Key Performance Indicators:
 * Average Transaction Value (ATV): average spend per transaction
-* Total Spend per Customer: cumulative spend by each customer over a period
-* Number of transactions per customer: 
+* Number of transactions per customer:
+* Visit Frequency:
 
 
 Tools used: 
@@ -25,6 +21,11 @@ Tools used:
   
 ## Data structure overview
 The database structure as seen below consists of three tables: Customers, Sales, Stores
+
+
+<img src="https://github.com/user-attachments/assets/10bb51f1-522f-47de-8a51-74a873c040c9" width="700" height="600">
+
+
 ## Executive Summary
 
 ### Insights Deep dive
