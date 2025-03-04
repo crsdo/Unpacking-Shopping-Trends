@@ -10,7 +10,7 @@ This project involves creating a Tableau dashboard aimed at helping stakeholders
 
 Key Performance Indicators:
 * Average Transaction Value (ATV): average spend per transaction
-* Number of transactions per customer:
+* Number of transactions per Sotre:
 * Visit Frequency:
 
 
