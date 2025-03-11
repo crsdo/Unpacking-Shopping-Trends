@@ -10,14 +10,15 @@ This project involves creating a Tableau dashboard aimed at helping stakeholders
 
 Key Performance Indicators:
 * Average Transaction Value (ATV): average spend per transaction
-* Number of transactions per Sotre:
-* Visit Frequency:
+* Total Transaction: number of transactions from the stores
+* Visit Frequency: how often the customers go to the stores on a weekly basis 
 
 
 Tools used: 
-* EXCEL: 
+* EXCEL: extracted the data 
 * Jupiter Notebook: For Data Cleaning and Transformation
-* Tableau: Data visulaizations
+* MySQL: used for data validation and queries
+* Tableau: data visulaizations
   
 ## Data structure overview
 The database structure as seen below consists of three tables: Customers, Sales, Stores
