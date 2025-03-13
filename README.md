@@ -6,7 +6,7 @@ Are Customers in Austin Opting for Smaller, More Frequent Purchases?
 
 
 ## Background Context
-This project involves creating a Tableau dashboard aimed at helping stakeholders, including sales managers and executives, analyze whether or not customers prefer smaller but more frequent shopping at two Austin stores. The dashboards provide a clear overview of sales metrics, trends, and insights to support data-driven decision-making.
+This project involves creating a Tableau dashboard aimed at helping stakeholders, including sales managers and executives, analyze whether or not customers prefer smaller but more frequent shopping at two Austin stores. The dashboards provide a clear overview of sales metrics, trends, and insights to support data-driven decision-making. The data is collected from October 2024 to February 2025.
 
 Key Performance Indicators:
 * Average Transaction Value (ATV): average spend per transaction
@@ -29,7 +29,19 @@ The database structure as seen below consists of three tables: Customers, Sales,
 
 ## Executive Summary
 
-### Insights Deep dive
+## Insights Deep dive
+### Average Basket Size
+![image](https://github.com/user-attachments/assets/51c49619-4c41-4414-8ff4-c313cea08066)
+
+
+- Among all stores in the dataset, stores 768 and 754 ranked in the top three for average basket size, with the highest values recorded at 18.89 and 16.60, respectively.
+
+### Visit Frequency 
+-
+
+### Focus Group Analysis 
+-
+
 
 ## Reccomendations
 
