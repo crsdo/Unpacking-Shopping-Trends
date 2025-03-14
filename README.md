@@ -34,8 +34,9 @@ The database structure as seen below consists of three tables: Customers, Sales,
 ![image](https://github.com/user-attachments/assets/51c49619-4c41-4414-8ff4-c313cea08066)
 
 
-- Among all stores in the dataset, stores 768 and 754 ranked in the top three for average basket size, with the highest values recorded at 18.89 and 16.60, respectively.
-
+- Among all stores in the dataset, the top three performers in terms of average basket size are Store 768 (18.89), Store 428 (18.56), and Store 754 (16.60). These stores consistently outperform others, indicating effective strategies for driving larger customer purchases.
+- The average basket size for these top-performing stores is significantly higher than the overall dataset average of 16.44, underscoring their exceptional performance.
+- 
 ### Visit Frequency 
 -
 
